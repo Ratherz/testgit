@@ -10,3 +10,4 @@ arr.push(number2);
 
 console.log("eiei")
 
+console.log("Hello EIie");
