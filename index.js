@@ -14,6 +14,13 @@ function addArray(data){
     return arr.push(data);
 }
 
+function AddArray2(data){
+    return arr.push(data);
+}
+AddArray2("Ora Ora");
+
+
+
 console.log("eiei")
 
 addArray("Hello");
