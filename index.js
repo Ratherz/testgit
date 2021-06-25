@@ -1,5 +1,6 @@
 console.log("Hello");
 console.log("Hola");
+console.log("wow wow");
 
 let number1 = 10;
 let number2 = 20;
