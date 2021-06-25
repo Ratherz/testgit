@@ -46,3 +46,4 @@ console.log("Hii")
 testHello();
 
 console.log("it's change")
+ajson.email = "email@example.com";
