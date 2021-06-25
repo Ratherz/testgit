@@ -1,3 +1,4 @@
+import {testHello} from './loger'; 
 console.log("Hello");
 console.log("Hola");
 console.log("wow wow");
@@ -35,3 +36,4 @@ ajson = {
 }
 console.log("Hii")
 console.log("Hii")
+testHello();
