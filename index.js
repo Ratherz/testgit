@@ -20,11 +20,8 @@ console.log("Hello EIie");
 
 console.log("Hii soopon")
 console.log("Hii soopon")
-console.log("Hii soopon")
-console.log("Hii soopon")
-console.log("Hii soopon")
-console.log("Hii soopon")
-console.log("Hii soopon")
+number1 = 50;
+arr.push(number1);
 console.log("Hii soopon")
 console.log("Hii soopon")
 console.log("Hii soopon")
