@@ -9,6 +9,11 @@ let arr = [];
 arr.push(number1);
 arr.push(number2);
 
+function addArray(data){
+    return arr.push(data);
+}
+
 console.log("eiei")
 
+addArray("Hello");
 console.log("Hello EIie");
