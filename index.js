@@ -26,3 +26,10 @@ console.log("Hii soopon")
 console.log("Hii soopon")
 console.log("Hii soopon")
 console.log("Hii soopon")
+
+
+ajson = {
+    name: "Sopon",
+    age: 21,
+    tel: "091234312"
+}
