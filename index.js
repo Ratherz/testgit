@@ -37,3 +37,5 @@ ajson = {
 console.log("Hii")
 console.log("Hii")
 testHello();
+
+ajson.email = "email@example.com";
