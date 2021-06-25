@@ -33,3 +33,5 @@ ajson = {
     age: 21,
     tel: "091234312"
 }
+console.log("Hii")
+console.log("Hii")
